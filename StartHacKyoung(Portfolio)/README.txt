@@ -1,4 +1,6 @@
-Free for personal and commercial use under the CCA 3.0 license.
+Lens by HTML5 UP
+html5up.net | @n33co
+Free for personal and commercial use under the CCA 3.0 license (html5up.net/license)
 
 
 This is Lens, a full screen (and entirely responsive) photo gallery design. Unlike previous
